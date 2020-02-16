@@ -1,4 +1,4 @@
-## Privacy Policy
+## Terms & Privacy Policy
 
 CycL built the CycL app as a Free app. This SERVICE is provided by CycL at no cost and is intended for use as is.
 
@@ -55,8 +55,15 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
+**Fees**
+There will be fees as a result of the payment of paypal. This will be deducted from your own amount.
+
+**misuse or attempted fraud**
+
+suspected fraud or misuse of the service will result exclusion and loss of earned money
+
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Contact.cycl@gmail.com.
+If you have any questions or suggestions about our Terms & Privacy Policy, do not hesitate to contact us at Contact.cycl@gmail.com.
 
 
