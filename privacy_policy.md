@@ -66,7 +66,7 @@ Attempts at fraud or abuse of the system could be following reasons:
 
 *   Scanning a bottle several times and not to place it on the deposit point;
 *   Trying to hack the system in any way;
-*   To not place the in the deposit point after scanning the bottle; or any other activities that can lead to earn of money without following our operating instructions
+*   To not place the in the deposit point after scanning the bottle; or any other activities that can lead to earn of money without following our operating instructions.
 
 **Contact Us**
 
