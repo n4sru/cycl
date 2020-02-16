@@ -60,7 +60,13 @@ There will be fees as a result of the payment of paypal. This will be deducted f
 
 **misuse or attempted fraud**
 
-suspected fraud or misuse of the service will result exclusion and loss of earned money
+suspected fraud or misuse of the service will result exclusion and loss of earned money.
+
+Attempts at fraud or abuse of the system may be due to the following reasons:
+
+*   Scanning a bottle several times and not to place it on the deposit point;
+*   Trying to hack the system in any way;or 
+*   To not place the in the deposit point after scanning the bottle
 
 **Contact Us**
 
